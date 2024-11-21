@@ -38,5 +38,8 @@ Demonstrates expertise in designing, deploying, and maintaining applications on 
 Azure Certified Developer
 Validates proficiency in building, testing, and deploying cloud applications on Microsoft Azure, including experience with PaaS, APIs, and Azure DevOps.
 
+portfolio:
+file:///Users/maheedharvenigalla/Downloads/index.html
+
 
 
