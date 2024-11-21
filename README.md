@@ -20,7 +20,8 @@ Web Development: Creating responsive and secure applications.
 Cybersecurity: Building tools and strategies to safeguard digital systems.
 Data Science: Analyzing and visualizing data for actionable insights.
 
-🚀 Featured Project: Medical Chatbot:
+🚀 Featured Project:
+Currently working on Medical Chatbot:
 This project focuses on developing a robust and scalable medical chatbot designed to assist users with healthcare-related queries and provide personalized health advice. It leverages cutting-edge AI and NLP technologies, including models like GPT, BERT, and BioBERT, to process natural language inputs and offer accurate, context-aware responses.
 
 The chatbot integrates advanced machine learning frameworks such as TensorFlow and PyTorch to handle complex diagnostic and recommendation tasks. A dynamic front-end powered by React.js or Angular ensures seamless user interactions, while a secure and efficient back-end built with Python (using Flask or FastAPI) supports API integration and real-time communication.
